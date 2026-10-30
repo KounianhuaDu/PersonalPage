@@ -1,7 +1,0 @@
-__pycache__/
-*.py[cod]
-*.tmp
-_site/
-.venv/
-.env
-.DS_Store
