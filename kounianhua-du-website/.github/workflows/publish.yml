@@ -1,0 +1,66 @@
+name: Sync publications and deploy Pages
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    - cron: '23 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: personal-page-production
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out the current default branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test synchronization logic
+        run: python -m unittest discover -s tests -v
+      - name: Refresh publication metadata
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/sync_publications.py --refresh
+      - name: Validate generated site
+        run: python scripts/validate_site.py
+      - name: Save the last successful snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html data/openalex-cache.json data/publications.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update publication metadata and static homepage'
+            git push
+          fi
+      - name: Stage public files only
+        run: |
+          mkdir -p _site
+          cp index.html styles.css script.js _site/
+          cp -R assets _site/assets
+          touch _site/.nojekyll
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

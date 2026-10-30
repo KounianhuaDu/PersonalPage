@@ -1,0 +1,445 @@
+[
+  {
+    "id": "multievoskills",
+    "openalex_ids": [
+      "W7223982684"
+    ],
+    "title": "MultiEvoSkills: Structure-Aware Multi-Agent Evolution for Generalizable Skill Artifacts",
+    "authors": [
+      "Kounianhua Du",
+      "Ruoshui Shan",
+      "Jianxing Liu",
+      "Yucheng Zhang",
+      "Ke Li",
+      "Xing Sun",
+      "Weinan Zhang"
+    ],
+    "year": "Current",
+    "venue": "In submission",
+    "url": "",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "mcpdisco",
+    "openalex_ids": [
+      "W7221762837"
+    ],
+    "title": "MCPDisCo: Seesaw-Mitigated Tuning for MCP-Native Agents",
+    "authors": [
+      "Kounianhua Du",
+      "Jianxing Liu",
+      "Shuai Shao",
+      "Ke Li",
+      "Xing Sun",
+      "Weinan Zhang"
+    ],
+    "year": "2026",
+    "venue": "In submission",
+    "url": "https://arxiv.org/abs/2610.14956",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "fleetpilot",
+    "openalex_ids": [
+      "W7221779681"
+    ],
+    "title": "FleetPilot: Fine-Grained Steering Empowers Real-World Personalization",
+    "authors": [
+      "Kounianhua Du",
+      "Jianxing Liu",
+      "Kangning Zhang",
+      "et al."
+    ],
+    "year": "2026",
+    "venue": "Preprint",
+    "url": "https://arxiv.org/pdf/2610.14970",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "fints",
+    "openalex_ids": [
+      "W4415917196"
+    ],
+    "title": "Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering",
+    "authors": [
+      "Kounianhua Du",
+      "Jianxing Liu",
+      "Kangning Zhang",
+      "et al."
+    ],
+    "year": "2025",
+    "venue": "Preprint",
+    "url": "https://arxiv.org/abs/2510.27206",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "looptool",
+    "openalex_ids": [
+      "W4416236279",
+      "W7168366285"
+    ],
+    "title": "LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls",
+    "authors": [
+      "Kangning Zhang",
+      "Weiwen Liu",
+      "Wenxiang Jiao",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2026",
+    "venue": "ACL Main",
+    "url": "https://arxiv.org/pdf/2511.09148",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "bdc",
+    "openalex_ids": [
+      "W4407759454",
+      "W4412887970"
+    ],
+    "title": "Boost, Disentangle, and Customize: A Robust System2-to-System1 Pipeline for Code Generation",
+    "authors": [
+      "Kounianhua Du",
+      "Hanjing Wang",
+      "Jianxing Liu",
+      "et al."
+    ],
+    "year": "2025",
+    "venue": "ACL Findings",
+    "url": "https://arxiv.org/pdf/2502.12492",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "debatecoder",
+    "openalex_ids": [
+      "W4412945391"
+    ],
+    "title": "DebateCoder: Towards Collective Intelligence of LLMs via Test Case Driven LLM Debate for Code Generation",
+    "authors": [
+      "Jizheng Chen",
+      "Kounianhua Du",
+      "Xinyi Dai",
+      "et al."
+    ],
+    "year": "2025",
+    "venue": "ACL Main",
+    "url": "https://openreview.net/pdf?id=jCIF3pmbcF",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "retrievalprm",
+    "openalex_ids": [
+      "W4412888473"
+    ],
+    "title": "Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning",
+    "authors": [
+      "Jiachen Zhu",
+      "Congmin Zheng",
+      "Jianghao Lin",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2025",
+    "venue": "ACL Findings",
+    "url": "https://arxiv.org/pdf/2502.14361",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "rethinkmcts",
+    "openalex_ids": [
+      "W4416036570",
+      "W4403668191"
+    ],
+    "title": "RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation",
+    "authors": [
+      "Qingyao Li",
+      "Wei Xia",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2025",
+    "venue": "EMNLP",
+    "url": "https://arxiv.org/pdf/2409.09584",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "nl-debugging",
+    "openalex_ids": [
+      "W4416037073",
+      "W4415328805"
+    ],
+    "title": "NL-Debugging: Exploiting Natural Language as an Intermediate Representation for Code Debugging",
+    "authors": [
+      "Weiming Zhang",
+      "Qingyao Li",
+      "Xinyi Dai",
+      "Jizheng Chen",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2025",
+    "venue": "EMNLP",
+    "url": "https://openreview.net/pdf?id=Esbg6FwXKX",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "mobileuse",
+    "openalex_ids": [
+      "W7196944690",
+      "W4414877003"
+    ],
+    "title": "MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation",
+    "authors": [
+      "Ning Li",
+      "Xiangmou Qu",
+      "Jiamu Zhou",
+      "Jun Wang",
+      "Muning Wen",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2025",
+    "venue": "NeurIPS",
+    "url": "",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "codegrag",
+    "openalex_ids": [
+      "W4396786113"
+    ],
+    "title": "CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation",
+    "authors": [
+      "Kounianhua Du",
+      "Jizheng Chen",
+      "Renting Rui",
+      "et al."
+    ],
+    "year": "2024",
+    "venue": "Preprint",
+    "url": "https://arxiv.org/pdf/2405.02355",
+    "category": "agents",
+    "overrides": {},
+    "note": "Huawei Spark Honor"
+  },
+  {
+    "id": "agentic-ir",
+    "openalex_ids": [
+      "W4403570056"
+    ],
+    "title": "Agentic Information Retrieval",
+    "authors": [
+      "Weinan Zhang",
+      "Junwei Liao",
+      "Ning Li",
+      "Kounianhua Du",
+      "Jianghao Lin"
+    ],
+    "year": "Research",
+    "venue": "",
+    "url": "",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "codeapex",
+    "openalex_ids": [
+      "W4386555653"
+    ],
+    "title": "CodeAPEX: A Bilingual Programming Evaluation Benchmark for Large Language Models",
+    "authors": [
+      "Lingyue Fu",
+      "Huacan Chai",
+      "Shuang Luo",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "Research",
+    "venue": "",
+    "url": "https://arxiv.org/pdf/2309.01940",
+    "category": "agents",
+    "overrides": {}
+  },
+  {
+    "id": "disco",
+    "openalex_ids": [
+      "W4401857429"
+    ],
+    "title": "DisCo: Towards Harmonious Disentanglement and Collaboration between Tabular and Semantic Space for Recommendation",
+    "authors": [
+      "Kounianhua Du",
+      "Jizheng Chen",
+      "Jianghao Lin",
+      "et al."
+    ],
+    "year": "2024",
+    "venue": "KDD",
+    "url": "https://arxiv.org/pdf/2406.00011",
+    "category": "recommendation",
+    "overrides": {}
+  },
+  {
+    "id": "elcorec",
+    "openalex_ids": [
+      "W4403582506"
+    ],
+    "title": "ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation",
+    "authors": [
+      "Jizheng Chen*",
+      "Kounianhua Du*",
+      "Jianghao Lin",
+      "et al."
+    ],
+    "year": "2024",
+    "venue": "CIKM",
+    "url": "https://arxiv.org/pdf/2406.18825",
+    "category": "recommendation",
+    "overrides": {
+      "authors": [
+        "Jizheng Chen*",
+        "Kounianhua Du*",
+        "Jianghao Lin",
+        "et al."
+      ]
+    }
+  },
+  {
+    "id": "sinkt",
+    "openalex_ids": [
+      "W4403578219"
+    ],
+    "title": "SinKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model",
+    "authors": [
+      "Lingyue Fu",
+      "Hao Guan",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2024",
+    "venue": "CIKM",
+    "url": "https://arxiv.org/pdf/2407.01245",
+    "category": "recommendation",
+    "overrides": {}
+  },
+  {
+    "id": "fined",
+    "openalex_ids": [
+      "W4399353797"
+    ],
+    "title": "Extracting Essential and Disentangled Knowledge for Recommendation Enhancement",
+    "authors": [
+      "Kounianhua Du",
+      "Jizheng Chen",
+      "Jianghao Lin",
+      "et al."
+    ],
+    "year": "2023",
+    "venue": "DLP",
+    "url": "https://arxiv.org/pdf/2406.00012",
+    "category": "recommendation",
+    "overrides": {}
+  },
+  {
+    "id": "rella",
+    "openalex_ids": [
+      "W4396758737"
+    ],
+    "title": "ReLLa: Retrieval-Enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation",
+    "authors": [
+      "Jianghao Lin",
+      "Rong Shan",
+      "Chenxu Zhu",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2024",
+    "venue": "WWW",
+    "url": "https://arxiv.org/pdf/2308.11131",
+    "category": "recommendation",
+    "overrides": {}
+  },
+  {
+    "id": "pet",
+    "openalex_ids": [
+      "W4282967262",
+      "W7133184960"
+    ],
+    "title": "Learning Enhanced Representation for Tabular Data via Neighborhood Propagation",
+    "authors": [
+      "Kounianhua Du",
+      "Weinan Zhang",
+      "Ruiwen Zhou",
+      "et al."
+    ],
+    "year": "2022",
+    "venue": "NeurIPS",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2022/file/67e79c8e9b11f068a7cafd79505175c0-Paper-Conference.pdf",
+    "category": "graphs",
+    "overrides": {}
+  },
+  {
+    "id": "graphangel",
+    "openalex_ids": [],
+    "title": "Inductive Relation Prediction Using Analogy Subgraph Embeddings",
+    "authors": [
+      "Jiarui Jin",
+      "Yangkun Wang",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2022",
+    "venue": "ICLR",
+    "url": "https://openreview.net/pdf?id=PTRo58zPt3P",
+    "category": "graphs",
+    "overrides": {}
+  },
+  {
+    "id": "graphhinge",
+    "openalex_ids": [
+      "W3175976391",
+      "W3108205378"
+    ],
+    "title": "Learning Interaction Models of Structured Neighborhood on Heterogeneous Information Network",
+    "authors": [
+      "Jiarui Jin",
+      "Kounianhua Du",
+      "Weinan Zhang",
+      "et al."
+    ],
+    "year": "2021",
+    "venue": "TOIS",
+    "url": "https://arxiv.org/pdf/2011.12683",
+    "category": "graphs",
+    "overrides": {}
+  },
+  {
+    "id": "graph-interaction",
+    "openalex_ids": [
+      "W3080152140"
+    ],
+    "title": "An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph",
+    "authors": [
+      "Jiarui Jin",
+      "Jiarui Qin",
+      "Yuchen Fang",
+      "Kounianhua Du",
+      "et al."
+    ],
+    "year": "2020",
+    "venue": "KDD",
+    "url": "",
+    "category": "graphs",
+    "overrides": {}
+  }
+]
