@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T15:07:56+00:00",
+  "checked_at": "2026-10-31T07:06:19+00:00",
   "publications": [
     {
       "id": "multievoskills",
@@ -115,30 +115,6 @@
       ]
     },
     {
-      "id": "W7129447480",
-      "title": "LogitsCoder: Towards Efficient Chain-of-Thought Path Search via Logits Preference Decoding for Code Generation",
-      "authors": [
-        "Chen, Jizheng",
-        "Zhang, Weiming",
-        "Dai, Xinyi",
-        "Liu, Weiwen",
-        "Du, Kounianhua",
-        "Wang, Yasheng",
-        "Tang, Ruiming",
-        "Yu, Yong",
-        "Zhang, Weinan"
-      ],
-      "year": 2026,
-      "date": "2026-02-15",
-      "venue": "Preprint",
-      "url": "https://doi.org/10.48550/arxiv.2602.14054",
-      "published": false,
-      "category": "agents",
-      "openalex_ids": [
-        "W7129447480"
-      ]
-    },
-    {
       "id": "looptool",
       "title": "LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls",
       "authors": [
@@ -159,6 +135,30 @@
       "openalex_ids": [
         "W4416236279",
         "W7168366285"
+      ]
+    },
+    {
+      "id": "W7129447480",
+      "title": "LogitsCoder: Towards Efficient Chain-of-Thought Path Search via Logits Preference Decoding for Code Generation",
+      "authors": [
+        "Jizheng Chen",
+        "Weiming Zhang",
+        "Xinyi Dai",
+        "Lingyue Fu",
+        "Weiwen Liu",
+        "Kounianhua Du",
+        "Qingyao Li",
+        "Yong Yu",
+        "Weinan Zhang"
+      ],
+      "year": 2026,
+      "date": "2026-01-01",
+      "venue": "EMNLP Findings",
+      "url": "https://doi.org/10.18653/2026.findings-emnlp.1527",
+      "published": true,
+      "category": "agents",
+      "openalex_ids": [
+        "W7129447480"
       ]
     },
     {
