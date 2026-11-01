@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-10-31T07:06:19+00:00",
+  "checked_at": "2026-11-01T07:40:43+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -1425,9 +1425,9 @@
       "primary_location": {
         "id": "doi:10.18653/2026.findings-emnlp.1527",
         "doi": "https://doi.org/10.18653/2026.findings-emnlp.1527",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.18653/2026.findings-emnlp.1527",
-        "pdf_url": null,
+        "pdf_url": "https://aclanthology.org/2026.findings-emnlp.1527.pdf",
         "source": {
           "id": "https://openalex.org/S7407096085",
           "display_name": "Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)",
@@ -1459,9 +1459,9 @@
         {
           "id": "doi:10.18653/2026.findings-emnlp.1527",
           "doi": "https://doi.org/10.18653/2026.findings-emnlp.1527",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.18653/2026.findings-emnlp.1527",
-          "pdf_url": null,
+          "pdf_url": "https://aclanthology.org/2026.findings-emnlp.1527.pdf",
           "source": {
             "id": "https://openalex.org/S7407096085",
             "display_name": "Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)",
