@@ -1,3 +1,5 @@
+The published artifact contains only `index.html`, `styles.css`, `script.js`, `assets/` and `.nojekyll`. It does not publish workflow files, scripts, source templates, tests or the metadata cache.
+
 ## First deployment
 
 1. Unzip the package and put the **contents** of `kounianhua-du-website/` at the repository root, not inside another directory. Include the hidden `.github/` directory. Keep any existing repository-specific files such as `CNAME`; do not delete unrelated files. If there is an older Pages workflow, disable it to avoid two competing deployments.
