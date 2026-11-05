@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T07:36:18+00:00",
+  "checked_at": "2026-11-05T07:58:52+00:00",
   "publications": [
     {
       "id": "multievoskills",
@@ -274,7 +274,6 @@
       "published": true,
       "category": "agents",
       "openalex_ids": [
-        "W4403668191",
         "W4416036570"
       ]
     },
@@ -300,7 +299,6 @@
       "published": true,
       "category": "agents",
       "openalex_ids": [
-        "W4415328805",
         "W4416037073"
       ]
     },
@@ -612,7 +610,6 @@
       "published": true,
       "category": "graphs",
       "openalex_ids": [
-        "W3108205378",
         "W3175976391"
       ]
     },
@@ -637,7 +634,6 @@
       "published": true,
       "category": "graphs",
       "openalex_ids": [
-        "W4282967262",
         "W7133184960"
       ]
     },

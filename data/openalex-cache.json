@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-04T07:36:18+00:00",
+  "checked_at": "2026-11-05T07:58:52+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -1416,8 +1416,10 @@
           "author": {
             "id": "https://openalex.org/A5127932982",
             "display_name": "Weinan Zhang",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0002-0127-2425",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0127-2425"
+            ]
           },
           "raw_author_name": "Weinan Zhang"
         }
@@ -1900,8 +1902,10 @@
           "author": {
             "id": "https://openalex.org/A5100927581",
             "display_name": "Yong Yu",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0003-0281-8271",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0281-8271"
+            ]
           },
           "raw_author_name": "Yu, Yong"
         },
@@ -2222,230 +2226,6 @@
           "doi": "https://doi.org/10.48550/arxiv.2507.16853",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.48550/arxiv.2507.16853",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Preprint"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4415328805",
-      "title": "NL-Debugging: Exploiting Natural Language as an Intermediate Representation for Code Debugging",
-      "doi": "https://doi.org/10.48550/arxiv.2505.15356",
-      "publication_year": 2025,
-      "publication_date": "2025-05-21",
-      "type": "preprint",
-      "authorships": [
-        {
-          "author": {
-            "id": "https://openalex.org/A5001057120",
-            "display_name": "Weiming Zhang",
-            "orcid": "https://orcid.org/0000-0001-5263-0512",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5263-0512",
-              "https://orcid.org/0000-0001-5576-6108",
-              "https://orcid.org/0009-0005-0035-0670"
-            ]
-          },
-          "raw_author_name": "Zhang, Weiming"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5077296767",
-            "display_name": "Qingyao Li",
-            "orcid": "https://orcid.org/0009-0000-3731-1548",
-            "observed_orcids": [
-              "https://orcid.org/0009-0000-3731-1548"
-            ]
-          },
-          "raw_author_name": "Li, Qingyao"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5012370987",
-            "display_name": "Xinyi Dai",
-            "orcid": "https://orcid.org/0000-0002-3351-5401",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3351-5401"
-            ]
-          },
-          "raw_author_name": "Dai, Xinyi"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5027598868",
-            "display_name": "Jizheng Chen",
-            "orcid": "https://orcid.org/0009-0003-3509-4537",
-            "observed_orcids": [
-              "https://orcid.org/0009-0003-3509-4537"
-            ]
-          },
-          "raw_author_name": "Chen, Jizheng"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5074618552",
-            "display_name": "Kounianhua Du",
-            "orcid": "https://orcid.org/0000-0002-2611-5055",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2611-5055"
-            ]
-          },
-          "raw_author_name": "Du, Kounianhua"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5101500385",
-            "display_name": "Weiwen Liu",
-            "orcid": "https://orcid.org/0000-0002-9148-3997",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9148-3997"
-            ]
-          },
-          "raw_author_name": "Liu, Weiwen"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5072845284",
-            "display_name": "Yasheng Wang",
-            "orcid": "https://orcid.org/0000-0002-3221-0470",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3221-0470"
-            ]
-          },
-          "raw_author_name": "Wang, Yasheng"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5054330014",
-            "display_name": "Ruiming Tang",
-            "orcid": "https://orcid.org/0000-0002-9224-2431",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9224-2431"
-            ]
-          },
-          "raw_author_name": "Tang, Ruiming"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5100419998",
-            "display_name": "Yong Hong Yu",
-            "orcid": "https://orcid.org/0000-0002-0187-2439",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0187-2439",
-              "https://orcid.org/0000-0003-4457-2820"
-            ]
-          },
-          "raw_author_name": "Yu, Yong"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5090720315",
-            "display_name": "Weinan Zhang",
-            "orcid": "https://orcid.org/0000-0002-0127-2425",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0127-2425"
-            ]
-          },
-          "raw_author_name": "Zhang, Weinan"
-        }
-      ],
-      "primary_location": {
-        "id": "pmh:oai:arXiv.org:2505.15356",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "http://arxiv.org/abs/2505.15356",
-        "pdf_url": "https://arxiv.org/pdf/2505.15356",
-        "source": {
-          "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
-          "issn_l": "2331-8422",
-          "issn": [
-            "2331-8422"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
-          "host_organization_lineage": [
-            "https://openalex.org/I205783295"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "text"
-      },
-      "locations": [
-        {
-          "id": "pmh:oai:arXiv.org:2505.15356",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://arxiv.org/abs/2505.15356",
-          "pdf_url": "https://arxiv.org/pdf/2505.15356",
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "text"
-        },
-        {
-          "id": "doi:10.48550/arxiv.2505.15356",
-          "doi": "https://doi.org/10.48550/arxiv.2505.15356",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.48550/arxiv.2505.15356",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306400194",
@@ -3729,6 +3509,72 @@
           "is_published": true,
           "raw_source_name": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
           "raw_type": "proceedings-article"
+        },
+        {
+          "id": "pmh:oai:arXiv.org:2409.09584",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/2409.09584",
+          "pdf_url": "https://arxiv.org/pdf/2409.09584",
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "text"
+        },
+        {
+          "id": "doi:10.48550/arxiv.2409.09584",
+          "doi": "https://doi.org/10.48550/arxiv.2409.09584",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2409.09584",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Preprint"
         }
       ]
     },
@@ -3908,6 +3754,72 @@
           "is_published": true,
           "raw_source_name": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
           "raw_type": "proceedings-article"
+        },
+        {
+          "id": "pmh:oai:arXiv.org:2505.15356",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/2505.15356",
+          "pdf_url": "https://arxiv.org/pdf/2505.15356",
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "text"
+        },
+        {
+          "id": "doi:10.48550/arxiv.2505.15356",
+          "doi": "https://doi.org/10.48550/arxiv.2505.15356",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2505.15356",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Preprint"
         }
       ]
     },
@@ -4701,205 +4613,6 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Preprint"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4403668191",
-      "title": "RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation",
-      "doi": "https://doi.org/10.48550/arxiv.2409.09584",
-      "publication_year": 2024,
-      "publication_date": "2024-09-15",
-      "type": "preprint",
-      "authorships": [
-        {
-          "author": {
-            "id": "https://openalex.org/A5077296767",
-            "display_name": "Qingyao Li",
-            "orcid": "https://orcid.org/0009-0000-3731-1548",
-            "observed_orcids": [
-              "https://orcid.org/0009-0000-3731-1548"
-            ]
-          },
-          "raw_author_name": "Li, Qingyao"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5100654154",
-            "display_name": "Wei Xia",
-            "orcid": "https://orcid.org/0000-0003-3157-6988",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3157-6988"
-            ]
-          },
-          "raw_author_name": "Xia, Wei"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5074618552",
-            "display_name": "Kounianhua Du",
-            "orcid": "https://orcid.org/0000-0002-2611-5055",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2611-5055"
-            ]
-          },
-          "raw_author_name": "Du, Kounianhua"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5012370987",
-            "display_name": "Xinyi Dai",
-            "orcid": "https://orcid.org/0000-0002-3351-5401",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3351-5401"
-            ]
-          },
-          "raw_author_name": "Dai, Xinyi"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5054330014",
-            "display_name": "Ruiming Tang",
-            "orcid": "https://orcid.org/0000-0002-9224-2431",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9224-2431"
-            ]
-          },
-          "raw_author_name": "Tang, Ruiming"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5072845284",
-            "display_name": "Yasheng Wang",
-            "orcid": "https://orcid.org/0000-0002-3221-0470",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3221-0470"
-            ]
-          },
-          "raw_author_name": "Wang, Yasheng"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5101910649",
-            "display_name": "Yong Jun Yu",
-            "orcid": "https://orcid.org/0009-0004-3061-9207",
-            "observed_orcids": [
-              "https://orcid.org/0009-0004-3061-9207"
-            ]
-          },
-          "raw_author_name": "Yu, Yong"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5090720315",
-            "display_name": "Weinan Zhang",
-            "orcid": "https://orcid.org/0000-0002-0127-2425",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0127-2425"
-            ]
-          },
-          "raw_author_name": "Zhang, Weinan"
-        }
-      ],
-      "primary_location": {
-        "id": "pmh:oai:arXiv.org:2409.09584",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "http://arxiv.org/abs/2409.09584",
-        "pdf_url": "https://arxiv.org/pdf/2409.09584",
-        "source": {
-          "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
-          "issn_l": "2331-8422",
-          "issn": [
-            "2331-8422"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
-          "host_organization_lineage": [
-            "https://openalex.org/I205783295"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "text"
-      },
-      "locations": [
-        {
-          "id": "pmh:oai:arXiv.org:2409.09584",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://arxiv.org/abs/2409.09584",
-          "pdf_url": "https://arxiv.org/pdf/2409.09584",
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "text"
-        },
-        {
-          "id": "doi:10.48550/arxiv.2409.09584",
-          "doi": "https://doi.org/10.48550/arxiv.2409.09584",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.48550/arxiv.2409.09584",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
           "version": null,
           "is_accepted": false,
           "is_published": false,
@@ -6143,8 +5856,10 @@
           "author": {
             "id": "https://openalex.org/A5100927581",
             "display_name": "Yong Yu",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0003-0281-8271",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0281-8271"
+            ]
           },
           "raw_author_name": "Yu, Yong"
         }
@@ -6221,214 +5936,6 @@
           "doi": "https://doi.org/10.48550/arxiv.2309.01940",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.48550/arxiv.2309.01940",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Preprint"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4282967262",
-      "title": "Learning Enhanced Representations for Tabular Data via Neighborhood Propagation",
-      "doi": "https://doi.org/10.48550/arxiv.2206.06587",
-      "publication_year": 2022,
-      "publication_date": "2022-06-14",
-      "type": "preprint",
-      "authorships": [
-        {
-          "author": {
-            "id": "https://openalex.org/A5074618552",
-            "display_name": "Kounianhua Du",
-            "orcid": "https://orcid.org/0000-0002-2611-5055",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2611-5055"
-            ]
-          },
-          "raw_author_name": "Du, Kounianhua"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5090720315",
-            "display_name": "Weinan Zhang",
-            "orcid": "https://orcid.org/0000-0002-0127-2425",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0127-2425"
-            ]
-          },
-          "raw_author_name": "Zhang, Weinan"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5002113455",
-            "display_name": "Ruiwen Zhou",
-            "orcid": "https://orcid.org/0009-0005-9881-3249",
-            "observed_orcids": [
-              "https://orcid.org/0009-0005-9881-3249"
-            ]
-          },
-          "raw_author_name": "Zhou, Ruiwen"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5112696002",
-            "display_name": "Yangkun Wang",
-            "orcid": "https://orcid.org/0000-0002-5664-058X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5664-058X"
-            ]
-          },
-          "raw_author_name": "Wang, Yangkun"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5100298256",
-            "display_name": "Xilong Zhao",
-            "orcid": "https://orcid.org/0009-0000-6444-8777",
-            "observed_orcids": [
-              "https://orcid.org/0009-0000-6444-8777"
-            ]
-          },
-          "raw_author_name": "Zhao, Xilong"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5034967647",
-            "display_name": "Jiarui Jin",
-            "orcid": "https://orcid.org/0000-0002-3551-8112",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3551-8112"
-            ]
-          },
-          "raw_author_name": "Jin, Jiarui"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5103610134",
-            "display_name": "Quan Gan",
-            "orcid": "https://orcid.org/0000-0002-6162-7785",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6162-7785"
-            ]
-          },
-          "raw_author_name": "Gan, Quan"
-        },
-        {
-          "author": {
-            "id": null,
-            "display_name": "Zhang, Zheng",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "raw_author_name": "Zhang, Zheng"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5085016531",
-            "display_name": "David Wipf",
-            "orcid": "https://orcid.org/0000-0002-2768-4540",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2768-4540"
-            ]
-          },
-          "raw_author_name": "Wipf, David"
-        }
-      ],
-      "primary_location": {
-        "id": "pmh:oai:arXiv.org:2206.06587",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "http://arxiv.org/abs/2206.06587",
-        "pdf_url": "https://arxiv.org/pdf/2206.06587",
-        "source": {
-          "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
-          "issn_l": "2331-8422",
-          "issn": [
-            "2331-8422"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
-          "host_organization_lineage": [
-            "https://openalex.org/I205783295"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "text"
-      },
-      "locations": [
-        {
-          "id": "pmh:oai:arXiv.org:2206.06587",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://arxiv.org/abs/2206.06587",
-          "pdf_url": "https://arxiv.org/pdf/2206.06587",
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "text"
-        },
-        {
-          "id": "doi:10.48550/arxiv.2206.06587",
-          "doi": "https://doi.org/10.48550/arxiv.2206.06587",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.48550/arxiv.2206.06587",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306400194",
@@ -6676,6 +6183,39 @@
           "raw_type": "text"
         },
         {
+          "id": "mag:3108205378",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://arxiv.org/abs/2011.12683",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "arXiv (Cornell University)",
+          "raw_type": null
+        },
+        {
           "id": "doi:10.48550/arxiv.2011.12683",
           "doi": "https://doi.org/10.48550/arxiv.2011.12683",
           "is_oa": true,
@@ -6876,147 +6416,13 @@
           "is_published": true,
           "raw_source_name": "Advances in Neural Information Processing Systems 35",
           "raw_type": "proceedings-article"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3108205378",
-      "title": "Learning Interaction Models of Structured Neighborhood on Heterogeneous Information Network.",
-      "doi": null,
-      "publication_year": 2020,
-      "publication_date": "2020-11-25",
-      "type": "preprint",
-      "authorships": [
-        {
-          "author": {
-            "id": "https://openalex.org/A5035163745",
-            "display_name": "Jiarui Jin",
-            "orcid": "https://orcid.org/0000-0001-6458-1586",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6458-1586",
-              "https://orcid.org/0009-0001-2955-5371"
-            ]
-          },
-          "raw_author_name": "Jiarui Jin"
         },
         {
-          "author": {
-            "id": "https://openalex.org/A5074618552",
-            "display_name": "Kounianhua Du",
-            "orcid": "https://orcid.org/0000-0002-2611-5055",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2611-5055"
-            ]
-          },
-          "raw_author_name": "Kounianhua Du"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5090720315",
-            "display_name": "Weinan Zhang",
-            "orcid": "https://orcid.org/0000-0002-0127-2425",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0127-2425"
-            ]
-          },
-          "raw_author_name": "Weinan Zhang"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5060200431",
-            "display_name": "Jiarui Qin",
-            "orcid": "https://orcid.org/0000-0002-9064-885X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9064-885X"
-            ]
-          },
-          "raw_author_name": "Jiarui Qin"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5101552118",
-            "display_name": "Yuchen Fang",
-            "orcid": "https://orcid.org/0000-0002-7882-8698",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7882-8698"
-            ]
-          },
-          "raw_author_name": "Yuchen Fang"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5001571390",
-            "display_name": "Yong Hai Yu",
-            "orcid": "https://orcid.org/0000-0003-0281-8271",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0281-8271"
-            ]
-          },
-          "raw_author_name": "Yong Yu"
-        },
-        {
-          "author": {
-            "id": null,
-            "display_name": "Zheng Zhang",
-            "orcid": "https://orcid.org/0000-0003-1470-6998",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1470-6998"
-            ]
-          },
-          "raw_author_name": "Zheng Zhang"
-        },
-        {
-          "author": {
-            "id": "https://openalex.org/A5000245150",
-            "display_name": "Alexander Johannes Smola",
-            "orcid": "https://orcid.org/0000-0002-7963-4721",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7963-4721"
-            ]
-          },
-          "raw_author_name": "Alexander J. Smola"
-        }
-      ],
-      "primary_location": {
-        "id": "mag:3108205378",
-        "doi": null,
-        "is_oa": true,
-        "landing_page_url": "https://arxiv.org/abs/2011.12683",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
-          "issn_l": "2331-8422",
-          "issn": [
-            "2331-8422"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
-          "host_organization_lineage": [
-            "https://openalex.org/I205783295"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "arXiv (Cornell University)",
-        "raw_type": null
-      },
-      "locations": [
-        {
-          "id": "mag:3108205378",
+          "id": "pmh:oai:arXiv.org:2206.06587",
           "doi": null,
           "is_oa": true,
-          "landing_page_url": "https://arxiv.org/abs/2011.12683",
-          "pdf_url": null,
+          "landing_page_url": "http://arxiv.org/abs/2206.06587",
+          "pdf_url": "https://arxiv.org/pdf/2206.06587",
           "source": {
             "id": "https://openalex.org/S4306400194",
             "display_name": "arXiv (Cornell University)",
@@ -7041,8 +6447,41 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "arXiv (Cornell University)",
-          "raw_type": null
+          "raw_source_name": null,
+          "raw_type": "text"
+        },
+        {
+          "id": "doi:10.48550/arxiv.2206.06587",
+          "doi": "https://doi.org/10.48550/arxiv.2206.06587",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2206.06587",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Preprint"
         }
       ]
     },
