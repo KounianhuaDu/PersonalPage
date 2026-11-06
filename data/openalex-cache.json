@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-05T07:58:52+00:00",
+  "checked_at": "2026-11-06T08:00:33+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -2366,7 +2366,6 @@
             "orcid": "https://orcid.org/0000-0002-4021-4228",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0002-5246-5497",
               "https://orcid.org/0000-0002-9704-125X",
               "https://orcid.org/0000-0003-3000-622X",
               "https://orcid.org/0000-0003-3181-486X",
@@ -2385,6 +2384,7 @@
               "https://orcid.org/0000-0002-6765-2914",
               "https://orcid.org/0000-0003-0881-3594",
               "https://orcid.org/0009-0006-8114-6061",
+              "https://orcid.org/0000-0002-5246-5497",
               "https://orcid.org/0000-0001-8932-6661"
             ]
           },
@@ -2781,7 +2781,6 @@
             "orcid": "https://orcid.org/0000-0002-4021-4228",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0002-5246-5497",
               "https://orcid.org/0000-0002-9704-125X",
               "https://orcid.org/0000-0003-3000-622X",
               "https://orcid.org/0000-0003-3181-486X",
@@ -2800,6 +2799,7 @@
               "https://orcid.org/0000-0002-6765-2914",
               "https://orcid.org/0000-0003-0881-3594",
               "https://orcid.org/0009-0006-8114-6061",
+              "https://orcid.org/0000-0002-5246-5497",
               "https://orcid.org/0000-0001-8932-6661"
             ]
           },
