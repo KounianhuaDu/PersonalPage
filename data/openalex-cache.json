@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-07T07:21:13+00:00",
+  "checked_at": "2026-11-08T07:31:39+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -2371,6 +2371,7 @@
               "https://orcid.org/0000-0003-3181-486X",
               "https://orcid.org/0009-0001-9467-756X",
               "https://orcid.org/0000-0001-7624-8430",
+              "https://orcid.org/0000-0001-8932-6661",
               "https://orcid.org/0000-0002-6326-4869",
               "https://orcid.org/0000-0002-8064-8151",
               "https://orcid.org/0000-0003-2370-2964",
@@ -2384,8 +2385,7 @@
               "https://orcid.org/0000-0002-6765-2914",
               "https://orcid.org/0000-0003-0881-3594",
               "https://orcid.org/0009-0006-8114-6061",
-              "https://orcid.org/0000-0002-5246-5497",
-              "https://orcid.org/0000-0001-8932-6661"
+              "https://orcid.org/0000-0002-5246-5497"
             ]
           },
           "raw_author_name": "Wang, Jun"
@@ -2786,6 +2786,7 @@
               "https://orcid.org/0000-0003-3181-486X",
               "https://orcid.org/0009-0001-9467-756X",
               "https://orcid.org/0000-0001-7624-8430",
+              "https://orcid.org/0000-0001-8932-6661",
               "https://orcid.org/0000-0002-6326-4869",
               "https://orcid.org/0000-0002-8064-8151",
               "https://orcid.org/0000-0003-2370-2964",
@@ -2799,8 +2800,7 @@
               "https://orcid.org/0000-0002-6765-2914",
               "https://orcid.org/0000-0003-0881-3594",
               "https://orcid.org/0009-0006-8114-6061",
-              "https://orcid.org/0000-0002-5246-5497",
-              "https://orcid.org/0000-0001-8932-6661"
+              "https://orcid.org/0000-0002-5246-5497"
             ]
           },
           "raw_author_name": "Jun Wang"
