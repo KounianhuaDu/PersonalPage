@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-13T08:10:50+00:00",
+  "checked_at": "2026-11-14T07:40:51+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -976,8 +976,9 @@
           "author": {
             "id": "https://openalex.org/A5100654154",
             "display_name": "Wei Xia",
-            "orcid": "https://orcid.org/0000-0003-3157-6988",
+            "orcid": "https://orcid.org/0000-0002-8778-7453",
             "observed_orcids": [
+              "https://orcid.org/0000-0002-8778-7453",
               "https://orcid.org/0000-0003-3157-6988"
             ]
           },
@@ -3366,8 +3367,9 @@
           "author": {
             "id": "https://openalex.org/A5100654154",
             "display_name": "Wei Xia",
-            "orcid": "https://orcid.org/0000-0003-3157-6988",
+            "orcid": "https://orcid.org/0000-0002-8778-7453",
             "observed_orcids": [
+              "https://orcid.org/0000-0002-8778-7453",
               "https://orcid.org/0000-0003-3157-6988"
             ]
           },
@@ -5533,8 +5535,9 @@
           "author": {
             "id": "https://openalex.org/A5100654154",
             "display_name": "Wei Xia",
-            "orcid": "https://orcid.org/0000-0003-3157-6988",
+            "orcid": "https://orcid.org/0000-0002-8778-7453",
             "observed_orcids": [
+              "https://orcid.org/0000-0002-8778-7453",
               "https://orcid.org/0000-0003-3157-6988"
             ]
           },
@@ -6091,10 +6094,14 @@
             "russia-white-list-1",
             "vabb-shw"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
           "type": "journal"
         },
         "license": null,
@@ -6135,10 +6142,14 @@
               "russia-white-list-1",
               "vabb-shw"
             ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
             "type": "journal"
           },
           "license": null,
@@ -6240,8 +6251,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": null,
           "is_accepted": false,
           "is_published": false,
