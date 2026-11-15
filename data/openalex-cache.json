@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-14T07:40:51+00:00",
+  "checked_at": "2026-11-15T07:56:54+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -1696,10 +1696,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -1728,10 +1732,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -1837,9 +1845,9 @@
             "observed_orcids": [
               "https://orcid.org/0000-0002-2201-3887",
               "https://orcid.org/0000-0001-6209-6886",
+              "https://orcid.org/0000-0003-2965-3518",
               "https://orcid.org/0000-0002-2836-7651",
               "https://orcid.org/0000-0003-0050-2548",
-              "https://orcid.org/0000-0003-2965-3518",
               "https://orcid.org/0009-0006-2307-4530",
               "https://orcid.org/0009-0001-1194-3333",
               "https://orcid.org/0009-0005-5098-4452"
@@ -2295,9 +2303,9 @@
             "observed_orcids": [
               "https://orcid.org/0000-0002-2201-3887",
               "https://orcid.org/0000-0001-6209-6886",
+              "https://orcid.org/0000-0003-2965-3518",
               "https://orcid.org/0000-0002-2836-7651",
               "https://orcid.org/0000-0003-0050-2548",
-              "https://orcid.org/0000-0003-2965-3518",
               "https://orcid.org/0009-0006-2307-4530",
               "https://orcid.org/0009-0001-1194-3333",
               "https://orcid.org/0009-0005-5098-4452"
@@ -2373,6 +2381,7 @@
               "https://orcid.org/0009-0001-9467-756X",
               "https://orcid.org/0000-0001-7624-8430",
               "https://orcid.org/0000-0001-8932-6661",
+              "https://orcid.org/0000-0002-3653-9951",
               "https://orcid.org/0000-0002-6326-4869",
               "https://orcid.org/0000-0002-8064-8151",
               "https://orcid.org/0000-0003-2370-2964",
@@ -2382,7 +2391,6 @@
               "https://orcid.org/0000-0002-0309-8109",
               "https://orcid.org/0000-0002-1730-337X",
               "https://orcid.org/0000-0002-2330-4002",
-              "https://orcid.org/0000-0002-3653-9951",
               "https://orcid.org/0000-0002-6765-2914",
               "https://orcid.org/0000-0003-0881-3594",
               "https://orcid.org/0009-0006-8114-6061",
@@ -2543,9 +2551,9 @@
             "observed_orcids": [
               "https://orcid.org/0000-0002-2201-3887",
               "https://orcid.org/0000-0001-6209-6886",
+              "https://orcid.org/0000-0003-2965-3518",
               "https://orcid.org/0000-0002-2836-7651",
               "https://orcid.org/0000-0003-0050-2548",
-              "https://orcid.org/0000-0003-2965-3518",
               "https://orcid.org/0009-0006-2307-4530",
               "https://orcid.org/0009-0001-1194-3333",
               "https://orcid.org/0009-0005-5098-4452"
@@ -2655,10 +2663,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310320244",
+          "host_organization_name": "Association for Computational Linguistics",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320244"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computational Linguistics"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -2685,10 +2697,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310320244",
+            "host_organization_name": "Association for Computational Linguistics",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320244"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computational Linguistics"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -2788,6 +2804,7 @@
               "https://orcid.org/0009-0001-9467-756X",
               "https://orcid.org/0000-0001-7624-8430",
               "https://orcid.org/0000-0001-8932-6661",
+              "https://orcid.org/0000-0002-3653-9951",
               "https://orcid.org/0000-0002-6326-4869",
               "https://orcid.org/0000-0002-8064-8151",
               "https://orcid.org/0000-0003-2370-2964",
@@ -2797,7 +2814,6 @@
               "https://orcid.org/0000-0002-0309-8109",
               "https://orcid.org/0000-0002-1730-337X",
               "https://orcid.org/0000-0002-2330-4002",
-              "https://orcid.org/0000-0002-3653-9951",
               "https://orcid.org/0000-0002-6765-2914",
               "https://orcid.org/0000-0003-0881-3594",
               "https://orcid.org/0009-0006-8114-6061",
@@ -2833,10 +2849,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310320244",
+          "host_organization_name": "Association for Computational Linguistics",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320244"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computational Linguistics"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -2863,10 +2883,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310320244",
+            "host_organization_name": "Association for Computational Linguistics",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320244"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computational Linguistics"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -3468,10 +3492,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310320244",
+          "host_organization_name": "Association for Computational Linguistics",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320244"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computational Linguistics"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -3498,10 +3526,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310320244",
+            "host_organization_name": "Association for Computational Linguistics",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320244"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computational Linguistics"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -3713,10 +3745,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310320244",
+          "host_organization_name": "Association for Computational Linguistics",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320244"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computational Linguistics"
+          ],
           "type": "conference"
         },
         "license": "cc-by",
@@ -3743,10 +3779,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310320244",
+            "host_organization_name": "Association for Computational Linguistics",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320244"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computational Linguistics"
+            ],
             "type": "conference"
           },
           "license": "cc-by",
@@ -3954,10 +3994,14 @@
             "cwts-core",
             "norway-2"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4404678063",
+          "host_organization_name": "Neural Information Processing Systems Foundation",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404678063"
+          ],
+          "host_organization_lineage_names": [
+            "Neural Information Processing Systems Foundation"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -3989,10 +4033,14 @@
               "cwts-core",
               "norway-2"
             ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4404678063",
+            "host_organization_name": "Neural Information Processing Systems Foundation",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404678063"
+            ],
+            "host_organization_lineage_names": [
+              "Neural Information Processing Systems Foundation"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -4130,10 +4178,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -4162,10 +4214,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -4347,10 +4403,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -4379,10 +4439,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -4746,10 +4810,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -4776,10 +4844,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -5358,10 +5430,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -5388,10 +5464,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -6379,10 +6459,14 @@
             "cwts-core",
             "norway-2"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4404678063",
+          "host_organization_name": "Neural Information Processing Systems Foundation",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404678063"
+          ],
+          "host_organization_lineage_names": [
+            "Neural Information Processing Systems Foundation"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -6414,10 +6498,14 @@
               "cwts-core",
               "norway-2"
             ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4404678063",
+            "host_organization_name": "Neural Information Processing Systems Foundation",
+            "host_organization_lineage": [
+              "https://openalex.org/P4404678063"
+            ],
+            "host_organization_lineage_names": [
+              "Neural Information Processing Systems Foundation"
+            ],
             "type": "conference"
           },
           "license": null,
@@ -6607,10 +6695,14 @@
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
           "type": "conference"
         },
         "license": null,
@@ -6637,10 +6729,14 @@
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
             "type": "conference"
           },
           "license": null,
