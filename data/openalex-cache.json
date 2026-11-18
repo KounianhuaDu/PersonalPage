@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-17T09:20:29+00:00",
+  "checked_at": "2026-11-18T08:39:30+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -856,8 +856,7 @@
             "display_name": "Lu Yuan",
             "orcid": "https://orcid.org/0000-0001-7879-0389",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7879-0389",
-              "https://orcid.org/0009-0006-5703-1424"
+              "https://orcid.org/0000-0001-7879-0389"
             ]
           },
           "raw_author_name": "Lu, Yuan"
@@ -1163,8 +1162,7 @@
             "display_name": "Lu Yuan",
             "orcid": "https://orcid.org/0000-0001-7879-0389",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7879-0389",
-              "https://orcid.org/0009-0006-5703-1424"
+              "https://orcid.org/0000-0001-7879-0389"
             ]
           },
           "raw_author_name": "Yuan Lu"
@@ -1844,10 +1842,6 @@
             "orcid": "https://orcid.org/0000-0002-2201-3887",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2201-3887",
-              "https://orcid.org/0000-0001-6209-6886",
-              "https://orcid.org/0000-0003-2965-3518",
-              "https://orcid.org/0000-0002-2836-7651",
-              "https://orcid.org/0000-0003-0050-2548",
               "https://orcid.org/0009-0006-2307-4530",
               "https://orcid.org/0009-0001-1194-3333",
               "https://orcid.org/0009-0005-5098-4452"
@@ -1890,8 +1884,7 @@
             "display_name": "Jiarui Jin",
             "orcid": "https://orcid.org/0000-0001-6458-1586",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-6458-1586",
-              "https://orcid.org/0009-0001-2955-5371"
+              "https://orcid.org/0000-0001-6458-1586"
             ]
           },
           "raw_author_name": "Jin, Jiarui"
@@ -2078,15 +2071,9 @@
             "orcid": "https://orcid.org/0000-0003-4173-6703",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4173-6703",
-              "https://orcid.org/0000-0001-9548-0411",
-              "https://orcid.org/0000-0002-0481-5341",
-              "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0003-0593-1034",
-              "https://orcid.org/0000-0002-5890-0365",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
-              "https://orcid.org/0000-0001-9006-7951",
-              "https://orcid.org/0000-0001-8708-1584"
+              "https://orcid.org/0000-0001-9006-7951"
             ]
           },
           "raw_author_name": "Wang, Jun"
@@ -2138,15 +2125,9 @@
             "orcid": "https://orcid.org/0000-0003-4173-6703",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4173-6703",
-              "https://orcid.org/0000-0001-9548-0411",
-              "https://orcid.org/0000-0002-0481-5341",
-              "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0003-0593-1034",
-              "https://orcid.org/0000-0002-5890-0365",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
-              "https://orcid.org/0000-0001-9006-7951",
-              "https://orcid.org/0000-0001-8708-1584"
+              "https://orcid.org/0000-0001-9006-7951"
             ]
           },
           "raw_author_name": "Wang, Jun"
@@ -2302,10 +2283,6 @@
             "orcid": "https://orcid.org/0000-0002-2201-3887",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2201-3887",
-              "https://orcid.org/0000-0001-6209-6886",
-              "https://orcid.org/0000-0003-2965-3518",
-              "https://orcid.org/0000-0002-2836-7651",
-              "https://orcid.org/0000-0003-0050-2548",
               "https://orcid.org/0009-0006-2307-4530",
               "https://orcid.org/0009-0001-1194-3333",
               "https://orcid.org/0009-0005-5098-4452"
@@ -2375,26 +2352,8 @@
             "orcid": "https://orcid.org/0000-0002-4021-4228",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0003-3000-622X",
-              "https://orcid.org/0000-0001-7624-8430",
-              "https://orcid.org/0000-0002-9704-125X",
-              "https://orcid.org/0000-0003-3181-486X",
               "https://orcid.org/0009-0001-9467-756X",
-              "https://orcid.org/0000-0001-8932-6661",
-              "https://orcid.org/0000-0002-3653-9951",
-              "https://orcid.org/0000-0002-6326-4869",
-              "https://orcid.org/0000-0002-8064-8151",
-              "https://orcid.org/0000-0003-2370-2964",
-              "https://orcid.org/0009-0003-1612-2272",
-              "https://orcid.org/0000-0001-5176-309X",
-              "https://orcid.org/0000-0001-9830-0164",
-              "https://orcid.org/0000-0002-0309-8109",
-              "https://orcid.org/0000-0002-1730-337X",
-              "https://orcid.org/0000-0002-2330-4002",
-              "https://orcid.org/0000-0002-6765-2914",
-              "https://orcid.org/0000-0003-0881-3594",
-              "https://orcid.org/0009-0006-8114-6061",
-              "https://orcid.org/0000-0002-5246-5497"
+              "https://orcid.org/0009-0006-8114-6061"
             ]
           },
           "raw_author_name": "Wang, Jun"
@@ -2550,10 +2509,6 @@
             "orcid": "https://orcid.org/0000-0002-2201-3887",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2201-3887",
-              "https://orcid.org/0000-0001-6209-6886",
-              "https://orcid.org/0000-0003-2965-3518",
-              "https://orcid.org/0000-0002-2836-7651",
-              "https://orcid.org/0000-0003-0050-2548",
               "https://orcid.org/0009-0006-2307-4530",
               "https://orcid.org/0009-0001-1194-3333",
               "https://orcid.org/0009-0005-5098-4452"
@@ -2623,15 +2578,9 @@
             "orcid": "https://orcid.org/0000-0003-4173-6703",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4173-6703",
-              "https://orcid.org/0000-0001-9548-0411",
-              "https://orcid.org/0000-0002-0481-5341",
-              "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0003-0593-1034",
-              "https://orcid.org/0000-0002-5890-0365",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
-              "https://orcid.org/0000-0001-9006-7951",
-              "https://orcid.org/0000-0001-8708-1584"
+              "https://orcid.org/0000-0001-9006-7951"
             ]
           },
           "raw_author_name": "Jun Wang"
@@ -2774,7 +2723,6 @@
             "orcid": "https://orcid.org/0000-0003-1247-2382",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1247-2382",
-              "https://orcid.org/0000-0002-6974-5110",
               "https://orcid.org/0000-0002-6354-1168"
             ]
           },
@@ -2798,26 +2746,8 @@
             "orcid": "https://orcid.org/0000-0002-4021-4228",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0003-3000-622X",
-              "https://orcid.org/0000-0001-7624-8430",
-              "https://orcid.org/0000-0002-9704-125X",
-              "https://orcid.org/0000-0003-3181-486X",
               "https://orcid.org/0009-0001-9467-756X",
-              "https://orcid.org/0000-0001-8932-6661",
-              "https://orcid.org/0000-0002-3653-9951",
-              "https://orcid.org/0000-0002-6326-4869",
-              "https://orcid.org/0000-0002-8064-8151",
-              "https://orcid.org/0000-0003-2370-2964",
-              "https://orcid.org/0009-0003-1612-2272",
-              "https://orcid.org/0000-0001-5176-309X",
-              "https://orcid.org/0000-0001-9830-0164",
-              "https://orcid.org/0000-0002-0309-8109",
-              "https://orcid.org/0000-0002-1730-337X",
-              "https://orcid.org/0000-0002-2330-4002",
-              "https://orcid.org/0000-0002-6765-2914",
-              "https://orcid.org/0000-0003-0881-3594",
-              "https://orcid.org/0009-0006-8114-6061",
-              "https://orcid.org/0000-0002-5246-5497"
+              "https://orcid.org/0009-0006-8114-6061"
             ]
           },
           "raw_author_name": "Jun Wang"
@@ -3272,6 +3202,37 @@
           "raw_type": "proceedings-article"
         },
         {
+          "id": "pmh:oai:pure.atira.dk:publications/cf10ba93-2809-4e7b-957e-e4706bd481e5",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://hdl.handle.net/2031/cf10ba93-2809-4e7b-957e-e4706bd481e5",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407055387",
+            "display_name": "CityUHK Scholars",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I168719708",
+            "host_organization_name": "City University of Hong Kong",
+            "host_organization_lineage": [
+              "https://openalex.org/I168719708"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/conferenceObject"
+        },
+        {
           "id": "pmh:oai:arXiv.org:2412.00208",
           "doi": null,
           "is_oa": true,
@@ -3303,35 +3264,6 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "text"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:publications/cf10ba93-2809-4e7b-957e-e4706bd481e5",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://hdl.handle.net/2031/cf10ba93-2809-4e7b-957e-e4706bd481e5",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S7407055387",
-            "display_name": "CityU Scholars",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "info:eu-repo/semantics/conferenceObject"
         },
         {
           "id": "doi:10.48550/arxiv.2412.00208",
@@ -3712,8 +3644,7 @@
             "display_name": "Yong Hong Yu",
             "orcid": "https://orcid.org/0000-0002-0187-2439",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-0187-2439",
-              "https://orcid.org/0000-0003-4457-2820"
+              "https://orcid.org/0000-0002-0187-2439"
             ]
           },
           "raw_author_name": "Yong Yu"
@@ -3949,15 +3880,9 @@
             "orcid": "https://orcid.org/0000-0003-4173-6703",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4173-6703",
-              "https://orcid.org/0000-0001-9548-0411",
-              "https://orcid.org/0000-0002-0481-5341",
-              "https://orcid.org/0000-0002-4021-4228",
-              "https://orcid.org/0000-0003-0593-1034",
-              "https://orcid.org/0000-0002-5890-0365",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
-              "https://orcid.org/0000-0001-9006-7951",
-              "https://orcid.org/0000-0001-8708-1584"
+              "https://orcid.org/0000-0001-9006-7951"
             ]
           },
           "raw_author_name": "Jun Wang"
@@ -5146,8 +5071,7 @@
             "display_name": "Jianghao Lin",
             "orcid": "https://orcid.org/0000-0002-5935-2110",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-5935-2110",
-              "https://orcid.org/0000-0002-8953-3203"
+              "https://orcid.org/0000-0002-5935-2110"
             ]
           },
           "raw_author_name": "Lin, Jianghao"
@@ -5178,8 +5102,7 @@
             "display_name": "Shuai Cheng Li",
             "orcid": "https://orcid.org/0000-0001-6246-6349",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-6246-6349",
-              "https://orcid.org/0000-0002-0620-9353"
+              "https://orcid.org/0000-0001-6246-6349"
             ]
           },
           "raw_author_name": "Li, Shuai"
@@ -5826,8 +5749,7 @@
             "display_name": "Weiming Zhang",
             "orcid": "https://orcid.org/0000-0001-5576-6108",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-5576-6108",
-              "https://orcid.org/0000-0002-1440-4757"
+              "https://orcid.org/0000-0001-5576-6108"
             ]
           },
           "raw_author_name": "Zhang, Weiming"
@@ -5867,8 +5789,7 @@
             "display_name": "Jianghao Lin",
             "orcid": "https://orcid.org/0000-0002-5935-2110",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-5935-2110",
-              "https://orcid.org/0000-0002-8953-3203"
+              "https://orcid.org/0000-0002-5935-2110"
             ]
           },
           "raw_author_name": "Lin, Jianghao"
@@ -6063,8 +5984,7 @@
             "display_name": "Jiarui Jin",
             "orcid": "https://orcid.org/0000-0001-6458-1586",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-6458-1586",
-              "https://orcid.org/0009-0001-2955-5371"
+              "https://orcid.org/0000-0001-6458-1586"
             ]
           },
           "raw_author_name": "Jiarui Jin"
@@ -6598,8 +6518,7 @@
             "display_name": "Jiarui Jin",
             "orcid": "https://orcid.org/0000-0001-6458-1586",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-6458-1586",
-              "https://orcid.org/0009-0001-2955-5371"
+              "https://orcid.org/0000-0001-6458-1586"
             ]
           },
           "raw_author_name": "Jiarui Jin"
