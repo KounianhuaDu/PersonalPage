@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T08:41:20+00:00",
+  "checked_at": "2026-11-21T08:22:35+00:00",
   "publications": [
     {
       "id": "multievoskills",
@@ -83,7 +83,7 @@
         "Weinan Zhang"
       ],
       "year": 2026,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "venue": "Lecture notes in computer science",
       "url": "https://doi.org/10.1007/978-3-032-37670-1_33",
       "published": true,
@@ -177,7 +177,7 @@
         "Yong Yu"
       ],
       "year": 2025,
-      "date": "2025-11-08",
+      "date": "2025-11-10",
       "venue": "CIKM",
       "url": "https://doi.org/10.1145/3746252.3761321",
       "published": true,
@@ -392,7 +392,7 @@
         "Yong Yu"
       ],
       "year": 2024,
-      "date": "2024-10-20",
+      "date": "2024-10-21",
       "venue": "CIKM",
       "url": "https://doi.org/10.1145/3627673.3679760",
       "published": true,
@@ -411,7 +411,7 @@
         "et al."
       ],
       "year": 2024,
-      "date": "2024-10-20",
+      "date": "2024-10-21",
       "venue": "CIKM",
       "url": "https://doi.org/10.1145/3627673.3679789",
       "published": true,
@@ -501,7 +501,7 @@
         "Weinan Zhang"
       ],
       "year": 2024,
-      "date": "2024-05-08",
+      "date": "2024-05-13",
       "venue": "WWW",
       "url": "https://doi.org/10.1145/3589334.3645467",
       "published": true,

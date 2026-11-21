@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-20T08:41:20+00:00",
+  "checked_at": "2026-11-21T08:22:35+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -559,7 +559,7 @@
       "title": "Synthesize, Retrieve, and Propagate: A Unified Predictive Modeling Framework for Relational Databases",
       "doi": "https://doi.org/10.1007/978-3-032-37670-1_33",
       "publication_year": 2026,
-      "publication_date": "2026-09-06",
+      "publication_date": "2026-09-07",
       "type": "conference-paper",
       "authorships": [
         {
@@ -1563,7 +1563,7 @@
       "title": "LLM4CD: Leveraging Large Language Models for Open-World Knowledge Augmented Cognitive Diagnosis",
       "doi": "https://doi.org/10.1145/3746252.3761321",
       "publication_year": 2025,
-      "publication_date": "2025-11-08",
+      "publication_date": "2025-11-10",
       "type": "conference-paper",
       "authorships": [
         {
@@ -3983,7 +3983,7 @@
       "title": "SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model",
       "doi": "https://doi.org/10.1145/3627673.3679760",
       "publication_year": 2024,
-      "publication_date": "2024-10-20",
+      "publication_date": "2024-10-21",
       "type": "conference-paper",
       "authorships": [
         {
@@ -4230,7 +4230,7 @@
       "title": "ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation",
       "doi": "https://doi.org/10.1145/3627673.3679789",
       "publication_year": 2024,
-      "publication_date": "2024-10-20",
+      "publication_date": "2024-10-21",
       "type": "conference-paper",
       "authorships": [
         {
@@ -5235,7 +5235,7 @@
       "title": "ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation",
       "doi": "https://doi.org/10.1145/3589334.3645467",
       "publication_year": 2024,
-      "publication_date": "2024-05-08",
+      "publication_date": "2024-05-13",
       "type": "conference-paper",
       "authorships": [
         {
@@ -6704,7 +6704,7 @@
           "doi": "https://doi.org/10.48550/arxiv.2007.00216",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.48550/arxiv.2007.00216",
-          "pdf_url": null,
+          "pdf_url": "https://arxiv.org/pdf/2007.00216",
           "source": {
             "id": "https://openalex.org/S4306400194",
             "display_name": "arXiv (Cornell University)",
