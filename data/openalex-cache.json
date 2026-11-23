@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-22T08:14:31+00:00",
+  "checked_at": "2026-11-23T09:14:33+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -1448,8 +1448,8 @@
           ],
           "type": "conference"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -1482,8 +1482,8 @@
             ],
             "type": "conference"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -2068,9 +2068,9 @@
           "author": {
             "id": "https://openalex.org/A5100384838",
             "display_name": "Jun Wang",
-            "orcid": "https://orcid.org/0000-0003-4173-6703",
+            "orcid": "https://orcid.org/0000-0002-0481-5341",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-4173-6703",
+              "https://orcid.org/0000-0002-0481-5341",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
               "https://orcid.org/0000-0001-9006-7951"
@@ -2122,9 +2122,9 @@
           "author": {
             "id": "https://openalex.org/A5100384838",
             "display_name": "Jun Wang",
-            "orcid": "https://orcid.org/0000-0003-4173-6703",
+            "orcid": "https://orcid.org/0000-0002-0481-5341",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-4173-6703",
+              "https://orcid.org/0000-0002-0481-5341",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
               "https://orcid.org/0000-0001-9006-7951"
@@ -2575,9 +2575,9 @@
           "author": {
             "id": "https://openalex.org/A5100384838",
             "display_name": "Jun Wang",
-            "orcid": "https://orcid.org/0000-0003-4173-6703",
+            "orcid": "https://orcid.org/0000-0002-0481-5341",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-4173-6703",
+              "https://orcid.org/0000-0002-0481-5341",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
               "https://orcid.org/0000-0001-9006-7951"
@@ -2722,8 +2722,7 @@
             "display_name": "Ying Wen",
             "orcid": "https://orcid.org/0000-0003-1247-2382",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-1247-2382",
-              "https://orcid.org/0000-0002-6354-1168"
+              "https://orcid.org/0000-0003-1247-2382"
             ]
           },
           "raw_author_name": "Ying Wen"
@@ -3028,8 +3027,8 @@
           "host_organization_lineage_names": [],
           "type": "conference"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -3062,8 +3061,8 @@
             "host_organization_lineage_names": [],
             "type": "conference"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -3877,9 +3876,9 @@
           "author": {
             "id": "https://openalex.org/A5100384838",
             "display_name": "Jun Wang",
-            "orcid": "https://orcid.org/0000-0003-4173-6703",
+            "orcid": "https://orcid.org/0000-0002-0481-5341",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-4173-6703",
+              "https://orcid.org/0000-0002-0481-5341",
               "https://orcid.org/0009-0005-2577-6221",
               "https://orcid.org/0009-0005-2667-7460",
               "https://orcid.org/0000-0001-9006-7951"
@@ -3902,7 +3901,7 @@
       "primary_location": {
         "id": "doi:10.52202/085713-1347",
         "doi": "https://doi.org/10.52202/085713-1347",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.52202/085713-1347",
         "pdf_url": null,
         "source": {
@@ -3912,7 +3911,7 @@
           "issn": [
             "1049-5258"
           ],
-          "is_oa": false,
+          "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
@@ -3941,7 +3940,7 @@
         {
           "id": "doi:10.52202/085713-1347",
           "doi": "https://doi.org/10.52202/085713-1347",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.52202/085713-1347",
           "pdf_url": null,
           "source": {
@@ -3951,7 +3950,7 @@
             "issn": [
               "1049-5258"
             ],
-            "is_oa": false,
+            "is_oa": true,
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
@@ -6364,7 +6363,7 @@
       "primary_location": {
         "id": "doi:10.52202/068431-1191",
         "doi": "https://doi.org/10.52202/068431-1191",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.52202/068431-1191",
         "pdf_url": null,
         "source": {
@@ -6374,7 +6373,7 @@
           "issn": [
             "1049-5258"
           ],
-          "is_oa": false,
+          "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
@@ -6403,7 +6402,7 @@
         {
           "id": "doi:10.52202/068431-1191",
           "doi": "https://doi.org/10.52202/068431-1191",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.52202/068431-1191",
           "pdf_url": null,
           "source": {
@@ -6413,7 +6412,7 @@
             "issn": [
               "1049-5258"
             ],
-            "is_oa": false,
+            "is_oa": true,
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
