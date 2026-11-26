@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T09:56:46+00:00",
+  "checked_at": "2026-11-26T09:40:35+00:00",
   "publications": [
     {
       "id": "multievoskills",
@@ -591,6 +591,29 @@
       ]
     },
     {
+      "id": "graphangel",
+      "title": "Inductive Relation Prediction Using Analogy Subgraph Embeddings",
+      "authors": [
+        "Jiarui Jin",
+        "Yangkun Wang",
+        "Kounianhua Du",
+        "Weinan Zhang",
+        "Zheng Zhang",
+        "David Wipf",
+        "Yong Yu",
+        "Quan Gan"
+      ],
+      "year": 2022,
+      "date": "2022-04-25",
+      "venue": "International Conference on Learning Representations",
+      "url": "https://openreview.net/forum?id=PTRo58zPt3P",
+      "published": true,
+      "category": "graphs",
+      "openalex_ids": [
+        "W7239661146"
+      ]
+    },
+    {
       "id": "graphhinge",
       "title": "GraphHINGE: Learning Interaction Models of Structured Neighborhood on Heterogeneous Information Network",
       "authors": [
@@ -636,21 +659,6 @@
       "openalex_ids": [
         "W7133184960"
       ]
-    },
-    {
-      "id": "graphangel",
-      "openalex_ids": [],
-      "title": "Inductive Relation Prediction Using Analogy Subgraph Embeddings",
-      "authors": [
-        "Jiarui Jin",
-        "Yangkun Wang",
-        "Kounianhua Du",
-        "et al."
-      ],
-      "year": "2022",
-      "venue": "ICLR",
-      "url": "https://openreview.net/pdf?id=PTRo58zPt3P",
-      "category": "graphs"
     },
     {
       "id": "graph-interaction",

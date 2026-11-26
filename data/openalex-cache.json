@@ -1,6 +1,6 @@
 {
   "author_id": "A5074618552",
-  "checked_at": "2026-11-25T09:56:46+00:00",
+  "checked_at": "2026-11-26T09:40:35+00:00",
   "works": [
     {
       "id": "https://openalex.org/W7223982684",
@@ -5449,6 +5449,166 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "text"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7239661146",
+      "title": "Inductive Relation Prediction Using Analogy Subgraph Embeddings",
+      "doi": null,
+      "publication_year": 2022,
+      "publication_date": "2022-04-25",
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author": {
+            "id": "https://openalex.org/A5164078688",
+            "display_name": "Jiarui Jin",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "raw_author_name": "Jiarui Jin"
+        },
+        {
+          "author": {
+            "id": "https://openalex.org/A5015179224",
+            "display_name": "Yangkun Wang",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-5423-9100",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5423-9100"
+            ]
+          },
+          "raw_author_name": "Yangkun Wang"
+        },
+        {
+          "author": {
+            "id": "https://openalex.org/A5074618552",
+            "display_name": "Kounianhua Du",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-2611-5055",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2611-5055"
+            ]
+          },
+          "raw_author_name": "Kounianhua Du"
+        },
+        {
+          "author": {
+            "id": "https://openalex.org/A5090720315",
+            "display_name": "Weinan Zhang",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-0127-2425",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0127-2425"
+            ]
+          },
+          "raw_author_name": "Weinan Zhang"
+        },
+        {
+          "author": {
+            "id": "https://openalex.org/A5164080749",
+            "display_name": "Zheng Zhang",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "raw_author_name": "Zheng Zhang"
+        },
+        {
+          "author": {
+            "id": "https://openalex.org/A5085016531",
+            "display_name": "David Wipf",
+            "type": null,
+            "orcid": "https://orcid.org/0000-0002-2768-4540",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2768-4540"
+            ]
+          },
+          "raw_author_name": "David Wipf"
+        },
+        {
+          "author": {
+            "id": "https://openalex.org/A5100571221",
+            "display_name": "Yong Yu",
+            "type": null,
+            "orcid": "https://orcid.org/0009-0002-7611-6029",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-7611-6029"
+            ]
+          },
+          "raw_author_name": "Yong Yu"
+        },
+        {
+          "author": {
+            "id": "https://openalex.org/A5164035661",
+            "display_name": "Quan Gan",
+            "type": null,
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "raw_author_name": "Quan Gan"
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:iclr.cc:2022/PTRo58zPt3P",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://openreview.net/forum?id=PTRo58zPt3P",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306419637",
+          "display_name": "International Conference on Learning Representations",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Conference on Learning Representations 2022",
+        "raw_type": "info:eu-repo/semantics/conferenceObject"
+      },
+      "locations": [
+        {
+          "id": "pmh:oai:iclr.cc:2022/PTRo58zPt3P",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://openreview.net/forum?id=PTRo58zPt3P",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306419637",
+            "display_name": "International Conference on Learning Representations",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Conference on Learning Representations 2022",
+          "raw_type": "info:eu-repo/semantics/conferenceObject"
         }
       ]
     },
